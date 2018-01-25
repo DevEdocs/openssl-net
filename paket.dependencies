@@ -1,0 +1,5 @@
+framework: net40, net45, net452
+references: strict
+
+source https://www.nuget.org/api/v2
+source http://192.168.0.237:8081/repository/edocs/

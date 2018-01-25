@@ -1,0 +1,9 @@
+type file
+Authors Inventti
+id openssl-net
+description openssl-net inventti
+
+files
+    bin\Debug\ManagedOpenSsl.dll ==> lib
+    bin\Debug\ssleay32.dll ==> lib
+    bin\Debug\libeay32.dll ==> lib

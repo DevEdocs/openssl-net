@@ -1,0 +1,2 @@
+REFERENCES: STRICT
+RESTRICTION: || (== net40) (== net45) (== net452)
